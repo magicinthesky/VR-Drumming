@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 79f0d5c871376492296b34e62b9cd3a9
+timeCreated: 1506649782
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Box02
+    100004: Camera01
+    100006: Camera01.target
+    100008: ChamferBox
+    100010: Cylinder01
+    100012: Cylinder02
+    100014: Cylinder04
+    100016: Cylinder06
+    100018: Cylinder09
+    100020: Cylinder10
+    100022: Cylinder11
+    100024: Cylinder12
+    100026: Cylinder13
+    100028: Cylinder14
+    100030: Cylinder15
+    100032: Cylinder16
+    100034: Cylinder17
+    100036: Cylinder18
+    100038: Cylinder19
+    100040: Cylinder20
+    100042: Cylinder21
+    100044: Cylinder22
+    100046: Cylinder23
+    100048: Cylinder24
+    100050: Cylinder25
+    100052: Cylinder26
+    100054: Cylinder27
+    100056: //RootNode
+    100058: Drumin pad
+    100060: Line01
+    100062: Line02
+    100064: Line03
+    100066: Line04
+    100068: Line05
+    100070: Object01
+    100072: Object02
+    100074: Object03
+    100076: Plane01
+    400000: Box01
+    400002: Box02
+    400004: Camera01
+    400006: Camera01.target
+    400008: ChamferBox
+    400010: Cylinder01
+    400012: Cylinder02
+    400014: Cylinder04
+    400016: Cylinder06
+    400018: Cylinder09
+    400020: Cylinder10
+    400022: Cylinder11
+    400024: Cylinder12
+    400026: Cylinder13
+    400028: Cylinder14
+    400030: Cylinder15
+    400032: Cylinder16
+    400034: Cylinder17
+    400036: Cylinder18
+    400038: Cylinder19
+    400040: Cylinder20
+    400042: Cylinder21
+    400044: Cylinder22
+    400046: Cylinder23
+    400048: Cylinder24
+    400050: Cylinder25
+    400052: Cylinder26
+    400054: Cylinder27
+    400056: //RootNode
+    400058: Drumin pad
+    400060: Line01
+    400062: Line02
+    400064: Line03
+    400066: Line04
+    400068: Line05
+    400070: Object01
+    400072: Object02
+    400074: Object03
+    400076: Plane01
+    2300000: Box01
+    2300002: Box02
+    2300004: ChamferBox
+    2300006: Cylinder01
+    2300008: Cylinder02
+    2300010: Cylinder04
+    2300012: Cylinder06
+    2300014: Cylinder09
+    2300016: Cylinder10
+    2300018: Cylinder11
+    2300020: Cylinder12
+    2300022: Cylinder13
+    2300024: Cylinder14
+    2300026: Cylinder15
+    2300028: Cylinder16
+    2300030: Cylinder17
+    2300032: Cylinder18
+    2300034: Cylinder19
+    2300036: Cylinder20
+    2300038: Cylinder21
+    2300040: Cylinder22
+    2300042: Cylinder23
+    2300044: Cylinder24
+    2300046: Cylinder25
+    2300048: Cylinder26
+    2300050: Cylinder27
+    2300052: Line01
+    2300054: Line02
+    2300056: Line03
+    2300058: Line04
+    2300060: Line05
+    2300062: Object01
+    2300064: Object02
+    2300066: Object03
+    2300068: Plane01
+    3300000: Box01
+    3300002: Box02
+    3300004: ChamferBox
+    3300006: Cylinder01
+    3300008: Cylinder02
+    3300010: Cylinder04
+    3300012: Cylinder06
+    3300014: Cylinder09
+    3300016: Cylinder10
+    3300018: Cylinder11
+    3300020: Cylinder12
+    3300022: Cylinder13
+    3300024: Cylinder14
+    3300026: Cylinder15
+    3300028: Cylinder16
+    3300030: Cylinder17
+    3300032: Cylinder18
+    3300034: Cylinder19
+    3300036: Cylinder20
+    3300038: Cylinder21
+    3300040: Cylinder22
+    3300042: Cylinder23
+    3300044: Cylinder24
+    3300046: Cylinder25
+    3300048: Cylinder26
+    3300050: Cylinder27
+    3300052: Line01
+    3300054: Line02
+    3300056: Line03
+    3300058: Line04
+    3300060: Line05
+    3300062: Object01
+    3300064: Object02
+    3300066: Object03
+    3300068: Plane01
+    4300000: Plane01
+    4300002: Cylinder04
+    4300004: Cylinder01
+    4300006: Cylinder09
+    4300008: Cylinder02
+    4300010: Cylinder10
+    4300012: Cylinder11
+    4300014: Cylinder12
+    4300016: Cylinder13
+    4300018: Cylinder14
+    4300020: Cylinder15
+    4300022: Cylinder16
+    4300024: Cylinder06
+    4300026: Line01
+    4300028: Cylinder17
+    4300030: Cylinder18
+    4300032: Line02
+    4300034: Cylinder19
+    4300036: Cylinder20
+    4300038: Line03
+    4300040: Cylinder23
+    4300042: Box01
+    4300044: Box02
+    4300046: Cylinder24
+    4300048: Cylinder25
+    4300050: Cylinder26
+    4300052: Object01
+    4300054: Object02
+    4300056: Cylinder27
+    4300058: Object03
+    4300060: Line05
+    4300062: Line04
+    4300064: Cylinder21
+    4300066: Cylinder22
+    4300068: ChamferBox
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

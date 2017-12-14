@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Script/Sources/models/_Barking_Dog/3D Free Modular Kit/Test_Map.unity
+  isLoaded: 1
+  isActive: 1
