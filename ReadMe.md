@@ -1,5 +1,5 @@
 # VR-Drumming
-Developed a VR application that simulates and instructs how to play a drum set
+**Developed a VR application that simulates and instructs how to play a drum set**
 
 1. Develop a virtual environment for the simulation with the following aspects:
 - High-fidelity drum set
