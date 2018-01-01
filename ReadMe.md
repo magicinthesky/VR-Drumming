@@ -1,6 +1,7 @@
 # VR-Drumming  
 ### *Developed a VR application that simulates and instructs how to play a drum set*  
 
+------  
 **Screenshot**:  
 ![vr drumming sample1](https://user-images.githubusercontent.com/31857879/34464849-686219b4-ee58-11e7-9874-2476230e7fed.jpg)
 ------  
