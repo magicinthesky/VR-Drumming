@@ -1,8 +1,14 @@
 # VR-Drumming  
 ### *Developed a VR application that instructs players how to play a drum set*  
 
+------
+
 #### Team members:
-Fei Zou, Gen Li, Su Yang, Aining Yang, Menghua Liu 
+* Fei Zou
+* Gen Li
+* Su Yang
+* Aining Yang
+* Menghua Liu 
 
 ------  
 **Screenshot**:  
